@@ -1,2 +1,2 @@
 # Curs Git
-## Altceva
+## Altceva nou
